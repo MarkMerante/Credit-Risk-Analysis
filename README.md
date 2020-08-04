@@ -1,0 +1,2 @@
+# Credit-Risk-Analysis
+In this analysis, I will be attempting to predict whether an applicant will default on a loan. I will be looking at variables such as age, personal income, years of employment, and among other variables by using exploratory analysis such as correlation and predictive models such as logistic regression and linear discriminant analysis to help aide in accurately predicting if loans will default.
